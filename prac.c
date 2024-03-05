@@ -19,8 +19,16 @@ int main()
     for(int i = 0; i < 10; i++)
     {
         int tem = a;
-        a = b;
-        b= tem;
+        b= tem; a = b;
+       
     }
+        a = b;
     return 0;
 }
+    retwhat can I sayurn fffffff
+
+    return 0;
+    return 0;
+    return 0;
+    return 0;
+    return 0;
