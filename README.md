@@ -17,4 +17,6 @@ There are some relative data.
 
 [vim常用操作总结](https://github.com/chenxiaochun/blog/issues/60) 这个常用总结写的不错
 
+[Vim常用命令总结](https://github.com/czla/awesome-linux-command/blob/master/Vim.md)  这个应该是最全面的版本了
+
 Vim还是比较适合打英语 奈何自己的英文水平不太够
